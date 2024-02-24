@@ -22,15 +22,18 @@ NOTE: I have tentatively added the topic and short description of what to do. On
 
 ## Day 0: AWS Fundamentals & Account creation
 
-1. What is Cloud computing? Why to learn it? What are various cloud providers?
-2. How to create an account in AWS?
-3. AWS Console walkthrough and what to expect from this series?
+1. Intro about the Course
+2. What is Cloud computing? Evolution of Cloud, Virtualisation, Web 2.0
+3. Intro to AWS
+4. History of AWS
+5. Setup AWS Free tier account
 
 ## Day 1: Compute using AWS EC2
 
-1. What is Compute? What is EC2 instance
-2. Creation of EC2 instance and deploy an application
-3. Access the application and things to take care of
+1. What is EC2 instance? Properties to set for an Instance
+2. Region & AZs
+3. Instance Types and how to understand the types
+4. Demo of creating an EC2 Instance with Apache web server
 
 ## Day 2: Security Groups
 
