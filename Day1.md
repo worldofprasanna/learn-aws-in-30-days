@@ -3,6 +3,7 @@
 This script has to be run in Amazon Linux 2023
 
 ```
+#!/bin/bash
 sudo su
 yum update -y && yum install -y httpd
 systemctl enable httpd
