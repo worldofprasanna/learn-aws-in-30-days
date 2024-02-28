@@ -35,15 +35,36 @@ NOTE: I have tentatively added the topic and short description of what to do. On
 3. Instance Types and how to understand the types
 4. Demo of creating an EC2 Instance with Apache web server
 
-## Day 2: Security Groups
+## Day 2: Networking and Security Groups
 
-1. Rules to secure the instances
-2. What is Inbound and Outbound rules
+1. What is CIDR and how to interpret network range with it?
+2. Intro to VPC, Subnet, Route Tables
+3. Types of Subnet. Private & Public subnets along with Internet Gateway and NAT Gateway
+4. NACL vs SG
+5. What is Inbound and Outbound rules? or Ingress and Egress traffic
 
-## Day 3: IAM and User Management
+## Day 3: AWS Load Balancers
 
-1. How to give access to AWS
-2. What is the best practice to follow
+1. What is Load Balancer and how to use it?
+2. Understanding concepts such as Scalability, HA, Fault Tolerance, SSL Termination
+3. OSI Model explained
+4. ALB vs NLB
+5. Demo with ALB
+
+## Day 4: AWS Route 53
+
+1. What is DNS?
+2. How DNS resolution happens? Various Top level DNS Servers
+3. What are DNS Record types
+4. HTTP vs HTTPS traffic
+5. What is AWS Certificate Manager
+6. What is Route53 and how to configure it
+
+## Day 5: Demo Day
+
+Do a hands on demo with AWS Route53, ALB, EC2, Bastion Host, VPC, Public & Private Subnet
+
+### Videos for the below topics are not uploaded yet.
 
 ## Day 4: Access AWS using different ways (Console, Command line, Python code)
 
