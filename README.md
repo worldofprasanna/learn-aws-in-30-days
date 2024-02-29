@@ -62,24 +62,17 @@ NOTE: I have tentatively added the topic and short description of what to do. On
 
 ## Day 5: Demo Day
 
-Do a hands on demo with AWS Route53, ALB, EC2, Bastion Host, VPC, Public & Private Subnet
+Do a hands on demo of deploying a Landing page with AWS Route53, ALB, EC2, Bastion Host, VPC, Public & Private Subnet
+
+## Day 6: AWS IAM
+
+1. What is Authentication, Authorisation and how it is handled in AWS
+2. User, Group & Policy. What it is?
+3. How to understand Policy document
+4. AWS Command line access
+5. IAM Role
 
 ### Videos for the below topics are not uploaded yet.
-
-## Day 4: Access AWS using different ways (Console, Command line, Python code)
-
-1. Sample code to talk to AWS
-2. What commands possible and shell script
-
-## Day 5: VPC and Networking
-
-1. What is virtual private cloud
-2. Various components of VPC and how to access resources
-
-## Day 6: Load Balancer and Route53
-
-1. Why Load Balancers are needed
-2. How to access the application from external world
 
 ## Day 7: Auto Scaling & Best practice in EC2
 
