@@ -72,6 +72,46 @@ Do a hands on demo of deploying a Landing page with AWS Route53, ALB, EC2, Basti
 4. AWS Command line access
 5. IAM Role
 
+## Day 7: Static site hosting using AWS S3
+
+1. What is S3 bucket and how the objects are structured?
+2. What are the ways to access objects in S3? Pre Signed URL and Public URL?
+3. What are the steps to allow public access to S3 objects?
+4. How to enable static site hosting using S3?
+
+## Day 8: Serve Static Site using CloudFront
+
+1. What is CDN?
+2. What is Edge caching?
+3. What are the Components of CloudFront?
+4. Demo of serving static content using CloudFront
+5. What is Cache Invalidation?
+
+## Day 9: Databases in AWS
+
+1. Why Managed DB?
+2. Terminologies used in RDS
+3. What is Read Replica?
+4. How to achieve High Availablility in RDS?
+5. What is Encryption at Transit and Encryption at Rest?
+
+## Day 10: Costs in AWS
+
+1. What are Budgets in AWS?
+2. How to setup Zero Spend and Min Monthly Budgets?
+3. How to check Free Tier usage
+4. How to use AWS Cost Explorer?
+5. How to read Bills?
+6. What is Capacity Estimation and how to use AWS Pricing Calculator
+
+## Day 11: Handle logs & monitoring using CloudWatch
+
+1. What is Logging & Monitoring and benefits of Centralised Logging
+2. What is Metric and what are its attributes
+3. What are the components of CloudWatch Logs
+4. Resources to create for setting up alarms using Filters in CloudWatch
+5. Demo of setting up Email Alerts in case number of errors in last 30seconds > 3
+
 ### Videos for the below topics are not uploaded yet.
 
 ## Day 7: Auto Scaling & Best practice in EC2
@@ -82,27 +122,6 @@ Do a hands on demo of deploying a Landing page with AWS Route53, ALB, EC2, Basti
 ## Day 8: Deploy a Python based application in a slightly better way
 
 1. Handson deployment of same Python app, but in a better way
-
-## Day 9: File Storage using AWS S3
-
-1. What is Storage? What is S3 bucket
-2. Create / upload files to S3 bucket
-3. Policies & Permissions
-
-## Day 10: CDN using CloudFront
-
-1. What is CDN?
-2. What is Edge caching?
-
-## Day 11: Databases in AWS RDS
-
-1. How to create Databases?
-2. How to allow DB access to applications?
-
-## Day 12: Handle logs & monitoring using CloudWatch
-
-1. How to collect logs
-2. How to setup Monitoring and alerts
 
 ## Day 13: Secret Management in AWS
 
