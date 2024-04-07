@@ -1,0 +1,5 @@
+creation_rules:
+  - kms: "arn:aws:kms:ap-south-1:590183975107:key/ec65e7fc-f97c-48f5-a377-fc42417ed087"
+    path_regex: .*/development/.*
+  - kms: "arn:aws:kms:ap-south-1:590183975107:key/91d410ad-9be1-4d7c-bae3-8352196ea67d"
+    path_regex: .*/production/.*
